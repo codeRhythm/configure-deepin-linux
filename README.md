@@ -1,8 +1,8 @@
 # configure-deepin-linux
 
-##update
+## update
 
-###change sources.list
+### change sources.list
 
 edit file /etc/apt/sources.list, put the following contents at the top:
 
