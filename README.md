@@ -2,7 +2,7 @@
 
 ## update
 
-### change sources.list
+### apt update from aliyun
 
 edit file /etc/apt/sources.list, put the following contents at the top:
 
