@@ -7,6 +7,7 @@ dde是武汉深之度公司开发的deepin linux中自带的桌面。
 manjaro-deepin 为manjaro和dde组合而成，由manjaro社区维护。
 
 此git为我的manjaro deepin的常用配置。配置见wiki
+
 https://github.com/codeRhythm/manjaro-deepin-config/wiki
 
 ```
