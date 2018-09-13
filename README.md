@@ -1,6 +1,6 @@
 # manjaro-deepin-config
 
-manjaro取名自乞力马扎罗山的名字，是Arch linux的一个分支。
+manjaro取名自乞力马扎罗山(Kilimanjaro)，是Arch linux的一个分支。
 
 dde是武汉深之度公司开发的deepin linux中自带的桌面。
 
